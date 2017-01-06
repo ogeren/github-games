@@ -1,5 +1,5 @@
 ## Welcome to GitHub Games
-mod1
+mod1 mod2
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: http://ogeren.github.io/github-games/
